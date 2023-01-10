@@ -7,6 +7,7 @@ Engineering in data science and mathematics. Student.
 I'm a 6th semester student at the Tecnológico de Monterrey. I have programmed in languages ​​like python and R for some data science projects. I like to learn new things that can contribute to my training as a student and professional
 
 * 🌍  I'm based in Monterrey
+* 🧠  I'm learning Machine Learning
 * ✉️  You can contact me at [michiyareni@gmail.com](mailto:michiyareni@gmail.com)
 * 🤝  I'm open to collaborating on data science projects
 
